@@ -1,7 +1,7 @@
 {
-  "name": "goit-react-hw-04-feedback",
+  "name": "vacation",
   "version": "0.1.0",
-  "homepage": "https://Aleksandr-Kovshar.github.io/goit-react-hw-04-feedback",
+  "homepage": "https://Aleksandr-Kovshar.github.io/vacation",
   "private": false,
   "dependencies": {
     "@babel/plugin-proposal-export-default-from": "^7.24.1",

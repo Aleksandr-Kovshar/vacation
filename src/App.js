@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import "./App.css";
-import Feedback from "./components/Feedback";
+import VacationCalculator from "./components/VacationCalculator";
 
 
 class App extends Component {
@@ -9,7 +9,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <Feedback />
+        <VacationCalculator />
       </div>
     );
   }
