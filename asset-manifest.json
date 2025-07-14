@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/vacation/static/css/main.530443f6.css",
-    "main.js": "/vacation/static/js/main.2eb93b76.js",
+    "main.css": "/vacation/static/css/main.025d0129.css",
+    "main.js": "/vacation/static/js/main.2a9f6f2e.js",
     "index.html": "/vacation/index.html",
-    "main.530443f6.css.map": "/vacation/static/css/main.530443f6.css.map",
-    "main.2eb93b76.js.map": "/vacation/static/js/main.2eb93b76.js.map"
+    "main.025d0129.css.map": "/vacation/static/css/main.025d0129.css.map",
+    "main.2a9f6f2e.js.map": "/vacation/static/js/main.2a9f6f2e.js.map"
   },
   "entrypoints": [
-    "static/css/main.530443f6.css",
-    "static/js/main.2eb93b76.js"
+    "static/css/main.025d0129.css",
+    "static/js/main.2a9f6f2e.js"
   ]
 }
