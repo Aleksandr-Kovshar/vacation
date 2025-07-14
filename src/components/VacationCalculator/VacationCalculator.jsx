@@ -868,7 +868,9 @@ export default function VacationCalculator() {
 
   return (
     <div className="calculator">
-      <h2>Розрахунок відпустки</h2>
+      <h2>Деталізація відпустки</h2>
+      <p>{`Всього на рік надається ${totalMax} днів відпустки.  Із них ${maxNotDivide} можна використати тільки неподільно підряд, ${maxDivide} як завгодно.`}</p>
+      <h4>Для отримання детальної інформації заповни дані:</h4>
       <div className="inputs">
         <label>
           Доступно:
@@ -916,7 +918,7 @@ export default function VacationCalculator() {
           />
         </label>
       </div>
-      <button onClick={calculate}>Розрахувати</button>
+      <button onClick={calculate}>Отримати детальнішу інформацію</button>
       {result && <pre className="result">{result}</pre>}
     </div>
   );
